@@ -1,2 +1,2 @@
-# Suraj-s-first-code-on-github
-hey coders , this is my first code in github.
+# Suraj-s-first-repository-on-github
+hey coders , this is my first repo in github.
